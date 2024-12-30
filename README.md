@@ -14,7 +14,7 @@ but, all in all, the work is highly praiseworthy.
 
 It is difficult, however, to dinamically visualize some trends, and that is why I have prepared a series of heatmaps with the data from the biographies showing the geodiachronic evolution of some simple variables: places of birth, places of death, and life itineraries.
 
-The three attached maps show the evolution from the year -100 to 2000.
+The three maps linked below show the evolution from the year -100 to 2000.
 The dates that appear on the mobile ruler at the bottom of each map correspond to the center of the time interval, which extends for 100 years.
 I have grouped the locations in a square grid with 0.1º increments (this makes comparisons between very different latitudes difficult, but it is the best simple solution).
 The maps are zoomable, and the passage of time can be stopped, but I note that the maximum value associated with the color scale is not constant, it can vary between periods.
