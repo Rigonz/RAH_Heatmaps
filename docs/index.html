@@ -6,32 +6,33 @@
     <body>
         <h1><i>Heatmaps</i> de las biografías incluidas en <i>Historia Hispánica</i></h1>
         <h2>Intro</h2>
-        <p>La Real Academia de la Historia tiene una serie de biografías breves publicadas online, entre ellas <a href="https://historia-hispanica.rah.es/">Historia Hispánica</a>. 
+        <p>La Real Academia de la Historia tiene una serie de biografías breves publicadas <i>online</i>, entre ellas <a href="https://historia-hispanica.rah.es/">Historia Hispánica</a>. 
             Es muy notable que las biografías están georreferenciadas, es decir: por un lado se ha construido un mapa <i>interactivo</i> que muestra localidades importantes en la vida del conjunto de los biografiados, y, por otro, desde cada biografía también se accede a un mapa (no al de conjunto).</p>
         <p>En palabras de la institución se trata de <i>the most extensive information on Hispanic History gathered to date</i> y <i>the first time that a virtual space of these characteristics has been developed</i>. 
             La página de <i>Historia Hispánica</i> es muy interesante y el trabajo detrás de ella ha debido de ser grande. 
             Creo que no hay <i>more than 50,000 characters</i> sino poco más de 40,000 (la diferencia viene de fichas repetidas), 
-            que la georreferenciación es muy incompleta (la mayoría de las biografías sólo tiene su <i>α</i> y <i>ω</i>, nada entre medias), 
+            que la georreferenciación es muy incompleta (la mayoría de las biografías sólo tiene su <i>α</i> y <i>ω</i>, nada entre medias a pesar de que muchas biografías incluyen otros geodatos), 
             y que hay una sorprendente cantidad de pequeños errores en la organización de los datos, 
             pero, con todo, la obra es muy altamente loable.
         </p>
-        <p>Es difícil, sin embargo, visualizar la evolución de algunas tendencias, y por eso he preparado con los datos de las biografías una serie de <i>heatmaps</i> que muestran la evolución geodiacrónica de algunas variables simples: lugares de nacimiento, de fallecimiento, y de los itinerarios vitales.</p>
+        <p>Es difícil, sin embargo, visualizar dinámicamente algunas tendencias, y por eso he preparado con los datos de las biografías una serie de <i>heatmaps</i> que muestran la evolución geodiacrónica de algunas variables simples: lugares de nacimiento, de fallecimiento, y de los itinerarios vitales.</p>
         <p>Los tres mapas adjuntos presentan la evolución desde el año -100 hasta el 2000. 
-            Las fechas que aparecen en la regla móvil corresponden al centro del intervalo temporal, cuya extensión es de 100 años. 
+            Las fechas que aparecen en la regla móvil al pie de cada mapa corresponden al centro del intervalo temporal, cuya extensión es de 100 años. 
             He agrupado las localidades en una malla cuadrada con 0.1º de paso (esto dificulta la comparación entre latitudes muy diferentes, pero es la mejor solución simple). 
             Se puede hacer <i>zoom</i> en los mapas o <i>detener el paso del tiempo</i>, pero hago notar que el valor máximo asociado a la escala de colores no es constante, puede variar entre períodos.
-            (La animación tiene la velocidad justa en mi ordenador pero al pasarlo a HTML se pierde este control - disculpas. 
-            No hay mayor problema en trazar el itinerario geovital de cada biografía - salvo que hay demasiadas; queda pendiente de revisar.)
+            (Cuando se desconoce la ubicación precisa suele asociarse el país, por eso en algunas épocas hay tantos puntos en el centro de España o Francia. 
+            La animación tiene la velocidad justa en mi ordenador, pero al pasarlo a HTML se pierde este control - disculpas. 
+            No hay mayor problema en trazar el itinerario geovital de cada biografía - salvo que hay demasiadas para generar el mapa en <i>tiempo real</i>; queda pendiente de revisar.)
         </p>
 
         <h2>Nacimientos</h2>
-        <iframe height="800" width="100%" loading="lazy" src="https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20BI.html">Nacimientos</iframe>
+        <iframe src="https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20BI.html" height="1000" width="100%" loading="lazy" style="border:none;" target="Nacimientos" title="Nacimientos">Nacimientos</iframe>
           
         <h2>Decesos</h2>
-        <iframe height="800" width="100%" loading="lazy" src="https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20DE.html">Decesos</iframe>
+        <iframe src="https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20DE.html" height="1000" width="100%" loading="lazy" style="border:none;" target="Decesos" title="'Decesos">Decesos</iframe>
 
         <h2>Itinerarios</h2>
-        <iframe height="800" width="100%" loading="lazy" src="https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20IT.html">Itinerarios</iframe>
+        <iframe src="https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20IT.html" height="1000" width="100%" loading="lazy" style="border:none;" target="Itinerarios" title="Itinerarios">Itinerarios</iframe>
 
         <h2>Enlaces</h2>
         <a href="https://historia-hispanica.rah.es/">Historia Hispánica</a>
