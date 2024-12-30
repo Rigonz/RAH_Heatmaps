@@ -24,7 +24,7 @@ The animation has just the right speed on my computer, but when converting it to
 There is no major problem in tracing the geovital itinerary of each biography - except that there are too many to generate the map online in real time; it remains to be reviewed.)
 
 ### Direct Links
-**Main page in Spanish**: [https://rigonz.github.io/RAH_Heatmaps/](main page) 
-**Map of births**: [https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20BI.html](births) 
-**Map of deaths**: [https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20DE.html(deaths) 
-**Map of itineraries**: [https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20IT.html](itineraries) 
+- **Main page in Spanish**: [https://rigonz.github.io/RAH_Heatmaps/](main page) 
+- **Map of births**: [https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20BI.html](births) 
+- **Map of deaths**: [https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20DE.html(deaths) 
+- **Map of itineraries**: [https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20IT.html](itineraries) 
