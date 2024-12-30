@@ -1,5 +1,5 @@
 # RAH Heatmaps
-## Geo-diacronic Heatmaps with data from RAH's *Historia Hispanica*
+## Animated Diachronic Heatmaps with data from RAH's *Historia Hispanica*
 
 ### Intro
 The Spanish Royal Academy of History (*Real Academia de la Historia*) has a series of short biographies published online, including [Historia Hispánica](https://historia-hispanica.rah.es).
