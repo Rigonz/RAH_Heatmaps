@@ -26,5 +26,5 @@ There is no major problem in tracing the geovital itinerary of each biography - 
 ### Direct Links
 - **Main page in Spanish**: [main page, Spanish](https://rigonz.github.io/RAH_Heatmaps/) 
 - **Map of births**: [births](https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20BI.html) 
-- **Map of deaths**: [desths](https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20DE.html) 
+- **Map of deaths**: [deaths](https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20DE.html) 
 - **Map of itineraries**: [itineraries](https://htmlpreview.github.io/?https://github.com/Rigonz/RAH_Heatmaps/blob/main/docs/200%20rah_heatmap%20R0%20IT.html) 
