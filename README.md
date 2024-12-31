@@ -21,7 +21,7 @@ The maps are zoomable, and the passage of time can be stopped, but I note that t
 
 (When the exact location of an event is unknown the country is usually associated, which is why there are so many points in the centre of Spain or France at certain times.
 The animation has just the right speed on my computer, but when converting it to HTML and uploading to the web this control is lost - apologies.
-There is no major problem in tracing the geovital itinerary of each biography - except that there are too many to generate the map online in real time; it remains to be reviewed.)
+There is no major problem in tracing the geovital itinerary of each biography - except that there are too many to generate the map online in real time; it remains in the to-do list.)
 
 ### Direct Links
 - **Main page in Spanish**: [main page, Spanish](https://rigonz.github.io/RAH_Heatmaps/) 
